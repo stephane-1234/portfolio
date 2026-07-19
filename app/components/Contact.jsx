@@ -13,7 +13,7 @@ export default function Contact() {
           <a href="https://linkedin.com/in/stephane-aime" target="_blank" rel="noopener noreferrer" className="bg-indigo-600 text-white px-6 py-3 rounded-xl hover:bg-indigo-500 transition-colors">
             LinkedIn
           </a>
-          <a href="mailto:asngogang@gmail.com" className="bg-slate-800 text-white px-6 py-3 rounded-xl hover:bg-slate-700 transition-colors border border-slate-700">
+          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=asngogang@gmail.com" target="_blank" rel="noopener noreferrer" className="bg-slate-800 text-white px-6 py-3 rounded-xl hover:bg-slate-700 transition-colors border border-slate-700">
             Email
           </a>
         </div>
