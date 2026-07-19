@@ -8,9 +8,23 @@ export default function Hero() {
           </span>
         </div>
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">Stéphane Aimé</h1>
-        <h2 className="text-2xl md:text-3xl font-light text-indigo-300 mb-8">Développeur Full-Stack</h2>
+        <h2 className="text-2xl md:text-3xl font-light text-indigo-300 mb-8">DEC en informatique</h2>
         <p className="text-gray-400 text-lg max-w-2xl mb-12 leading-relaxed">
-          Passionné par la création d&apos;applications web modernes. Spécialisé en JavaScript, React, Node.js et Next.js. DEC en informatique — Gatineau, Québec.
+         Diplômé en informatique avec une formation complète couvrant les réseaux, la sécurité informatique, la programmation et les systèmes embarqués, je cherche à évoluer vers une carrière en TI et cybersécurité.
+ 
+Mon parcours combine une expérience concrète en appui à la recherche en intelligence artificielle et deux postes au sein du gouvernement fédéral canadien (Société du patrimoine Canada et Statistique Canada), ce qui me donne une double perspective rare : je comprends à la fois les environnements gouvernementaux sécurisés et les technologies qui les transforment.
+ 
+Je me spécialise activement en cybersécurité - domaine dans lequel je prépare actuellement la certification CompTIA Security+ - avec l'objectif de contribuer à des environnements sécurisés et résilients.
+ 
+Ce que j'apporte :
+ 
+Solide base technique : réseaux, sécurité, bases de données, programmation
+Expérience en environnement gouvernemental fédéral et gestion de données sensibles
+Expérience pratique en recherche appliquée en IA
+Bilinguisme français/anglais
+Capacité d'apprentissage rapide dans des environnements en constante évolution
+ 
+Ouvert aux opportunités en support TI, administration réseau et analyse de sécurité junior - secteur public ou privé.
         </p>
         <div className="flex flex-wrap gap-4">
           <a href="#projects" className="bg-indigo-600 text-white px-8 py-4 rounded-xl font-semibold hover:bg-indigo-500 transition-colors">
