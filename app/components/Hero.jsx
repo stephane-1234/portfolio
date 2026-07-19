@@ -30,7 +30,7 @@ export default function Hero() {
             </ul>
           </div>
           <p>
-            Ouvert aux opportunités en support TI, administration réseau et analyse de sécurité junior secteur public ou privé.
+            Ouvert aux opportunités, développement  des applications web et mobile, en support TI, administration réseau et analyse de sécurité junior secteur public ou privé.
           </p>
         </div>
         <div className="flex flex-wrap gap-4">
