@@ -17,7 +17,7 @@ export default function Hero() {
             Mon parcours combine une expérience concrète en appui à la recherche en intelligence artificielle et deux postes au sein du gouvernement fédéral canadien (Société du patrimoine Canada et Statistique Canada), ce qui me donne une double perspective rare : je comprends à la fois les environnements gouvernementaux sécurisés et les technologies qui les transforment.
           </p>
           <p>
-            Je me spécialise activement en cybersécurité — domaine dans lequel je prépare actuellement la certification CompTIA Security+ — avec l&apos;objectif de contribuer à des environnements sécurisés et résilients.
+            Je me spécialise activement en cybersécurité - domaine dans lequel je prépare actuellement la certification CompTIA Security+ avec l&apos;objectif de contribuer à des environnements sécurisés et résilients.
           </p>
           <div>
             <p className="text-white font-semibold mb-2">Ce que j&apos;apporte :</p>
@@ -30,7 +30,7 @@ export default function Hero() {
             </ul>
           </div>
           <p>
-            Ouvert aux opportunités en support TI, administration réseau et analyse de sécurité junior — secteur public ou privé.
+            Ouvert aux opportunités en support TI, administration réseau et analyse de sécurité junior secteur public ou privé.
           </p>
         </div>
         <div className="flex flex-wrap gap-4">
